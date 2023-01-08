@@ -1,6 +1,8 @@
 # build files
 *.o
 *.orig
+*.rej
+*.diff
 
 # dmenu executables
 dmenu
