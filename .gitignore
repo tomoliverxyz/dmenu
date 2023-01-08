@@ -1,0 +1,9 @@
+# build files
+*.o
+
+# dmenu executables
+dmenu
+stest
+
+# config file created by make
+config.h
